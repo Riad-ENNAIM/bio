@@ -1,8 +1,7 @@
 body {
     margin: 0;
     overflow: hidden;
-    background: 
-    background(55, 100, 144);
+    background: rgb(55, 100, 144);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,12 +39,12 @@ body {
 .box h5 {
     font-size: 20px;
     letter-spacing: 3px;
-    font-weight: 100;
+    font-weight: 200;
 }
 
-.box p {
-    /*text-align: justify;*/
-    font-weight: bolder;
+.box h6 {
+    font-size: 20px;
+    font-weight: 100;
 }
 
 .media-container {
